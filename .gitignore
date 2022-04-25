@@ -1,0 +1,4 @@
+.env
+compiled_contract.json
+test.cairo
+.vscode
